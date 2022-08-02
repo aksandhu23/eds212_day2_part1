@@ -38,3 +38,7 @@ z <- seq(from = -3, to = 4, by = .5)
 eval(dg_dz)
 ```
 
+
+Hi!
+
+Awesome Text!!!
